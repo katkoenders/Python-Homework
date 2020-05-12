@@ -1,2 +1,2 @@
 # python-challenge
-Code is ude to analyze financial records and poll data. 
+Code is analyzing financial records and poll data. 
